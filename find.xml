@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'REST'" />
-    <option name="defaultScopeName" value="Project 'REST'" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'REST'" />
+    <option name="SEARCH_SCOPE" value="Current File" />
   </component>
 </application>
